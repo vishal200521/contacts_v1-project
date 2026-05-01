@@ -1,4 +1,4 @@
-contacts = {'tanveer': 9963256876,'raju': 7876544876,'rakesh': 8787878787}
+contacts = {'vishal': 9963256876,'raju': 7876544876,'rakesh': 8787878787}
 
 # creating function for adding new contacts
 def add_contact(name: str, mobile: int):
